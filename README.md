@@ -1,5 +1,5 @@
 # NueroBoard
-A RP2040 Development Board.
+A RP2340 Development Board.
 
 # License
 CERN Open Hardware Licence Version 2 - Permissive
