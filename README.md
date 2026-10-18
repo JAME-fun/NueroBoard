@@ -1,7 +1,7 @@
 # NueroBoard
 A RP2040 Development Board.
 
-#License
+# License
 CERN Open Hardware Licence Version 2 - Permissive
 
 Copyright (c) 2026 @JAME_fun
